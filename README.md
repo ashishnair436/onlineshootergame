@@ -1,1 +1,1 @@
-# onlineshootergame
+Hi , My name is Ashish Nair and I have tried to create a simple 3D Online Shooter game with multiple random fun maps. I have used Photon Network to do the multiplayer setup and as I am using the free Photon Server for testing purposes , only a maximum of 20 players can play at any given time together. I hope you guys can play and enjoy the game .
