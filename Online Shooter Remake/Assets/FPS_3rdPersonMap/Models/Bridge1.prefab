@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1719131386502096951
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1622977934706887975}
+  - component: {fileID: 7437616550373448473}
+  - component: {fileID: 1576633771097512673}
+  - component: {fileID: 7029349522722554014}
+  m_Layer: 0
+  m_Name: Bridge1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 8
+  m_IsActive: 1
+--- !u!4 &1622977934706887975
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1719131386502096951}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &7437616550373448473
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1719131386502096951}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 1f6b38b52364d9546973f203eb5814fa, type: 2}
+  - {fileID: 2100000, guid: 7764f6346e91bc543aa3b3bc10516cfd, type: 2}
+  - {fileID: 2100000, guid: e7b188b375a08374d99c6b83bbe49d7d, type: 2}
+  - {fileID: 2100000, guid: cf34e838bfd0b144ea0693020d249e57, type: 2}
+  - {fileID: 2100000, guid: 90cab7f07ff4d3f48b0664bf2560ad2b, type: 2}
+  - {fileID: 2100000, guid: 1f6b38b52364d9546973f203eb5814fa, type: 2}
+  - {fileID: 2100000, guid: a0a244ec8817f7d4ca10924e29f01b21, type: 2}
+  - {fileID: 2100000, guid: 5f041e7f460fa314ab191b93bf0299e7, type: 2}
+  - {fileID: 2100000, guid: d2b66ae3552c06f459bc3c83eadfb3a4, type: 2}
+  - {fileID: 2100000, guid: 3dce88810584abf4ab31b65b5cbd83cc, type: 2}
+  - {fileID: 2100000, guid: dff8bfa0d2802f0449f535593d0a7f05, type: 2}
+  - {fileID: 2100000, guid: d2b66ae3552c06f459bc3c83eadfb3a4, type: 2}
+  - {fileID: 2100000, guid: a8fe299b072e7dd4a907829f511a0c46, type: 2}
+  - {fileID: 2100000, guid: f381838e3c6f646458c361f39d0cceb2, type: 2}
+  - {fileID: 2100000, guid: d2b66ae3552c06f459bc3c83eadfb3a4, type: 2}
+  - {fileID: 2100000, guid: 3c248a95ce60f6f48a5f04fb0f208c27, type: 2}
+  - {fileID: 2100000, guid: be15492158ecb424ab06d7cbb0b02aad, type: 2}
+  - {fileID: 2100000, guid: 4ce85241147dacf4b89216cc3ebc9ccf, type: 2}
+  - {fileID: 2100000, guid: cd9830b8fa4c62847a6532aafd887d55, type: 2}
+  - {fileID: 2100000, guid: d57f26e5dea93de4885c57263c25c84f, type: 2}
+  - {fileID: 2100000, guid: fac7a5958f9527e4da2fe30ef1f21eab, type: 2}
+  - {fileID: 2100000, guid: cd9830b8fa4c62847a6532aafd887d55, type: 2}
+  - {fileID: 2100000, guid: e7b188b375a08374d99c6b83bbe49d7d, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 2
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &1576633771097512673
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1719131386502096951}
+  m_Mesh: {fileID: 4300000, guid: 7c4ff59b919cf4b4bbd0cbc5b9436ce8, type: 2}
+--- !u!64 &7029349522722554014
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1719131386502096951}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 7c4ff59b919cf4b4bbd0cbc5b9436ce8, type: 2}

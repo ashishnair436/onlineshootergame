@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 37f6315dddf3b4042a48e1cb1fc3e784
+  - enabled: 1
+    path: Assets/Scenes/Map 1.unity
+    guid: f4d73480326d92244b349c6fa0e85bcd
+  - enabled: 1
+    path: Assets/Scenes/Map 2.unity
+    guid: 5e43654b39a62d348a0e14d1813cb700
+  - enabled: 1
+    path: Assets/Scenes/Map 3.unity
+    guid: dff1a89fe61982c468267f4ee93790cb
+  - enabled: 1
+    path: Assets/Scenes/Map 4.unity
+    guid: 812f112d3aa88ed4a8f0a8594d75ecaa
+  - enabled: 1
+    path: Assets/Scenes/Map 5.unity
+    guid: 2a7e61fa50deb924f8e7719c24bfd95b
+  - enabled: 1
+    path: Assets/Scenes/Map 6.unity
+    guid: 92bb73a685b966042bfc205b69f89ac6
+  - enabled: 1
+    path: Assets/Scenes/Map 7.unity
+    guid: ae62625cb7c5c164a8880b1e165d3f50
+  - enabled: 1
+    path: Assets/Scenes/Map 8.unity
+    guid: 6b192ae16837cba4fb2f462c2767015f
+  - enabled: 1
+    path: Assets/Scenes/Map 9.unity
+    guid: ecfb4f0616571a542bd91f48fe6da992
+  - enabled: 1
+    path: Assets/Scenes/Map 10.unity
+    guid: e500364cee4b081449052df379db5b5d
+  - enabled: 1
+    path: Assets/Scenes/Map 11.unity
+    guid: c42700e10fdfb554d803e633f67c46a9
+  - enabled: 1
+    path: Assets/Scenes/Map 12.unity
+    guid: 23849693a4999fc4c81cde9ca655eeab
+  m_configObjects: {}
